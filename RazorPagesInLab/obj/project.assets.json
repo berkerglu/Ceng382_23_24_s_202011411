@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/RazorPagesInLab.csproj",
+      "projectUniqueName": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/RazorPagesInLab.csproj",
       "projectName": "RazorPagesInLab",
-      "projectPath": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/RazorPagesInLab.csproj",
+      "projectPath": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/RazorPagesInLab.csproj",
       "packagesPath": "/Users/berkeroglu/.nuget/packages/",
-      "outputPath": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/obj/",
+      "outputPath": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/berkeroglu/.nuget/NuGet/NuGet.Config"

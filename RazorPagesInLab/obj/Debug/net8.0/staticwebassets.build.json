@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "YvKp+DYs6cgnryMcszLErdbwjLo08BfXfrt1Fm8i2e4=",
+  "Hash": "1V8pL+OBWZHWNz1ulQL1+joAuJgJdZmG95x8caiWmUk=",
   "Source": "RazorPagesInLab",
   "BasePath": "_content/RazorPagesInLab",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "RazorPagesInLab/wwwroot",
       "Source": "RazorPagesInLab",
-      "ContentRoot": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
+      "ContentRoot": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
       "BasePath": "_content/RazorPagesInLab",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/obj/Debug/net8.0/scopedcss/bundle/RazorPagesInLab.styles.css",
+      "Identity": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/obj/Debug/net8.0/scopedcss/bundle/RazorPagesInLab.styles.css",
       "SourceId": "RazorPagesInLab",
       "SourceType": "Computed",
-      "ContentRoot": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/obj/Debug/net8.0/scopedcss/bundle/",
+      "ContentRoot": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/obj/Debug/net8.0/scopedcss/bundle/",
       "BasePath": "_content/RazorPagesInLab",
       "RelativePath": "RazorPagesInLab.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/obj/Debug/net8.0/scopedcss/bundle/RazorPagesInLab.styles.css"
+      "OriginalItemSpec": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/obj/Debug/net8.0/scopedcss/bundle/RazorPagesInLab.styles.css"
     },
     {
-      "Identity": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/obj/Debug/net8.0/scopedcss/projectbundle/RazorPagesInLab.bundle.scp.css",
+      "Identity": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/obj/Debug/net8.0/scopedcss/projectbundle/RazorPagesInLab.bundle.scp.css",
       "SourceId": "RazorPagesInLab",
       "SourceType": "Computed",
-      "ContentRoot": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/obj/Debug/net8.0/scopedcss/projectbundle/",
+      "ContentRoot": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/obj/Debug/net8.0/scopedcss/projectbundle/",
       "BasePath": "_content/RazorPagesInLab",
       "RelativePath": "RazorPagesInLab.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,32 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/obj/Debug/net8.0/scopedcss/projectbundle/RazorPagesInLab.bundle.scp.css"
+      "OriginalItemSpec": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/obj/Debug/net8.0/scopedcss/projectbundle/RazorPagesInLab.bundle.scp.css"
     },
     {
-      "Identity": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/css/MyCss.css",
+      "Identity": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/css/CommonCss.css",
       "SourceId": "RazorPagesInLab",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
+      "ContentRoot": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
+      "BasePath": "_content/RazorPagesInLab",
+      "RelativePath": "css/CommonCss.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/CommonCss.css"
+    },
+    {
+      "Identity": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/css/MyCss.css",
+      "SourceId": "RazorPagesInLab",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
       "BasePath": "_content/RazorPagesInLab",
       "RelativePath": "css/MyCss.css",
       "AssetKind": "All",
@@ -74,29 +93,10 @@
       "OriginalItemSpec": "wwwroot/css/MyCss.css"
     },
     {
-      "Identity": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/css/sign-in.css",
+      "Identity": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/css/site.css",
       "SourceId": "RazorPagesInLab",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
-      "BasePath": "_content/RazorPagesInLab",
-      "RelativePath": "css/sign-in.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/css/sign-in.css"
-    },
-    {
-      "Identity": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/css/site.css",
-      "SourceId": "RazorPagesInLab",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
+      "ContentRoot": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
       "BasePath": "_content/RazorPagesInLab",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -112,12 +112,12 @@
       "OriginalItemSpec": "wwwroot/css/site.css"
     },
     {
-      "Identity": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/images/apple-touch-icon.png",
+      "Identity": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/images/user.png",
       "SourceId": "RazorPagesInLab",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
+      "ContentRoot": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
       "BasePath": "_content/RazorPagesInLab",
-      "RelativePath": "images/apple-touch-icon.png",
+      "RelativePath": "images/user.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -128,15 +128,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/apple-touch-icon.png"
+      "OriginalItemSpec": "wwwroot/images/user.png"
     },
     {
-      "Identity": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/images/bootstrap-logo.svg",
+      "Identity": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/images/user16x16.png",
       "SourceId": "RazorPagesInLab",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
+      "ContentRoot": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
       "BasePath": "_content/RazorPagesInLab",
-      "RelativePath": "images/bootstrap-logo.svg",
+      "RelativePath": "images/user16x16.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -147,15 +147,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/bootstrap-logo.svg"
+      "OriginalItemSpec": "wwwroot/images/user16x16.png"
     },
     {
-      "Identity": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/images/favicon-16x16.png",
+      "Identity": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/images/user256x256.png",
       "SourceId": "RazorPagesInLab",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
+      "ContentRoot": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
       "BasePath": "_content/RazorPagesInLab",
-      "RelativePath": "images/favicon-16x16.png",
+      "RelativePath": "images/user256x256.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -166,15 +166,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/favicon-16x16.png"
+      "OriginalItemSpec": "wwwroot/images/user256x256.png"
     },
     {
-      "Identity": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/images/favicon-32x32.png",
+      "Identity": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/images/user32x32.png",
       "SourceId": "RazorPagesInLab",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
+      "ContentRoot": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
       "BasePath": "_content/RazorPagesInLab",
-      "RelativePath": "images/favicon-32x32.png",
+      "RelativePath": "images/user32x32.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -185,15 +185,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/favicon-32x32.png"
+      "OriginalItemSpec": "wwwroot/images/user32x32.png"
     },
     {
-      "Identity": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/images/favicon.ico",
+      "Identity": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/js/Button.js",
       "SourceId": "RazorPagesInLab",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
+      "ContentRoot": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
       "BasePath": "_content/RazorPagesInLab",
-      "RelativePath": "images/favicon.ico",
+      "RelativePath": "js/Button.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -204,32 +204,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/favicon.ico"
+      "OriginalItemSpec": "wwwroot/js/Button.js"
     },
     {
-      "Identity": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/images/safari-pinned-tab.svg",
+      "Identity": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/js/color-model.js",
       "SourceId": "RazorPagesInLab",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
-      "BasePath": "_content/RazorPagesInLab",
-      "RelativePath": "images/safari-pinned-tab.svg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/safari-pinned-tab.svg"
-    },
-    {
-      "Identity": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/js/color-model.js",
-      "SourceId": "RazorPagesInLab",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
+      "ContentRoot": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
       "BasePath": "_content/RazorPagesInLab",
       "RelativePath": "js/color-model.js",
       "AssetKind": "All",
@@ -245,10 +226,67 @@
       "OriginalItemSpec": "wwwroot/js/color-model.js"
     },
     {
-      "Identity": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/js/site.js",
+      "Identity": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/js/CreateAccount.js",
       "SourceId": "RazorPagesInLab",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
+      "ContentRoot": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
+      "BasePath": "_content/RazorPagesInLab",
+      "RelativePath": "js/CreateAccount.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/CreateAccount.js"
+    },
+    {
+      "Identity": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/js/ForgotPassword.js",
+      "SourceId": "RazorPagesInLab",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
+      "BasePath": "_content/RazorPagesInLab",
+      "RelativePath": "js/ForgotPassword.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/ForgotPassword.js"
+    },
+    {
+      "Identity": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/js/Index.js",
+      "SourceId": "RazorPagesInLab",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
+      "BasePath": "_content/RazorPagesInLab",
+      "RelativePath": "js/Index.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/Index.js"
+    },
+    {
+      "Identity": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/js/site.js",
+      "SourceId": "RazorPagesInLab",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
       "BasePath": "_content/RazorPagesInLab",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -264,10 +302,10 @@
       "OriginalItemSpec": "wwwroot/js/site.js"
     },
     {
-      "Identity": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/json/manifest.json",
+      "Identity": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/json/manifest.json",
       "SourceId": "RazorPagesInLab",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
+      "ContentRoot": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
       "BasePath": "_content/RazorPagesInLab",
       "RelativePath": "json/manifest.json",
       "AssetKind": "All",
@@ -283,10 +321,10 @@
       "OriginalItemSpec": "wwwroot/json/manifest.json"
     },
     {
-      "Identity": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "Identity": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
       "SourceId": "RazorPagesInLab",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
+      "ContentRoot": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
       "BasePath": "_content/RazorPagesInLab",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -302,10 +340,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css"
     },
     {
-      "Identity": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "Identity": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "SourceId": "RazorPagesInLab",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
+      "ContentRoot": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
       "BasePath": "_content/RazorPagesInLab",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -321,10 +359,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map"
     },
     {
-      "Identity": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "Identity": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "SourceId": "RazorPagesInLab",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
+      "ContentRoot": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
       "BasePath": "_content/RazorPagesInLab",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -340,10 +378,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css"
     },
     {
-      "Identity": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "Identity": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "SourceId": "RazorPagesInLab",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
+      "ContentRoot": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
       "BasePath": "_content/RazorPagesInLab",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -359,10 +397,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "Identity": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "SourceId": "RazorPagesInLab",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
+      "ContentRoot": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
       "BasePath": "_content/RazorPagesInLab",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -378,10 +416,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "Identity": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "SourceId": "RazorPagesInLab",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
+      "ContentRoot": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
       "BasePath": "_content/RazorPagesInLab",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -397,10 +435,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "Identity": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "SourceId": "RazorPagesInLab",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
+      "ContentRoot": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
       "BasePath": "_content/RazorPagesInLab",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -416,10 +454,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "Identity": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "SourceId": "RazorPagesInLab",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
+      "ContentRoot": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
       "BasePath": "_content/RazorPagesInLab",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -435,10 +473,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "Identity": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
       "SourceId": "RazorPagesInLab",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
+      "ContentRoot": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
       "BasePath": "_content/RazorPagesInLab",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -454,10 +492,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css"
     },
     {
-      "Identity": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "Identity": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "SourceId": "RazorPagesInLab",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
+      "ContentRoot": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
       "BasePath": "_content/RazorPagesInLab",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -473,10 +511,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
     },
     {
-      "Identity": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "Identity": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "SourceId": "RazorPagesInLab",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
+      "ContentRoot": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
       "BasePath": "_content/RazorPagesInLab",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -492,10 +530,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
     },
     {
-      "Identity": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "Identity": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "SourceId": "RazorPagesInLab",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
+      "ContentRoot": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
       "BasePath": "_content/RazorPagesInLab",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -511,10 +549,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "Identity": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "SourceId": "RazorPagesInLab",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
+      "ContentRoot": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
       "BasePath": "_content/RazorPagesInLab",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -530,10 +568,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "Identity": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "SourceId": "RazorPagesInLab",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
+      "ContentRoot": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
       "BasePath": "_content/RazorPagesInLab",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -549,10 +587,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "Identity": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "SourceId": "RazorPagesInLab",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
+      "ContentRoot": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
       "BasePath": "_content/RazorPagesInLab",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -568,10 +606,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "Identity": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "SourceId": "RazorPagesInLab",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
+      "ContentRoot": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
       "BasePath": "_content/RazorPagesInLab",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -587,10 +625,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "Identity": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
       "SourceId": "RazorPagesInLab",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
+      "ContentRoot": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
       "BasePath": "_content/RazorPagesInLab",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -606,10 +644,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css"
     },
     {
-      "Identity": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "Identity": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "SourceId": "RazorPagesInLab",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
+      "ContentRoot": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
       "BasePath": "_content/RazorPagesInLab",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -625,10 +663,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
     },
     {
-      "Identity": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "Identity": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "SourceId": "RazorPagesInLab",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
+      "ContentRoot": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
       "BasePath": "_content/RazorPagesInLab",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -644,10 +682,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
     },
     {
-      "Identity": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "Identity": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "SourceId": "RazorPagesInLab",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
+      "ContentRoot": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
       "BasePath": "_content/RazorPagesInLab",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -663,10 +701,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "Identity": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "SourceId": "RazorPagesInLab",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
+      "ContentRoot": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
       "BasePath": "_content/RazorPagesInLab",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -682,10 +720,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "Identity": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "SourceId": "RazorPagesInLab",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
+      "ContentRoot": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
       "BasePath": "_content/RazorPagesInLab",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -701,10 +739,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "Identity": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "SourceId": "RazorPagesInLab",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
+      "ContentRoot": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
       "BasePath": "_content/RazorPagesInLab",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -720,10 +758,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "Identity": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "SourceId": "RazorPagesInLab",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
+      "ContentRoot": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
       "BasePath": "_content/RazorPagesInLab",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -739,10 +777,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "Identity": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
       "SourceId": "RazorPagesInLab",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
+      "ContentRoot": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
       "BasePath": "_content/RazorPagesInLab",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -758,10 +796,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.css"
     },
     {
-      "Identity": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "Identity": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
       "SourceId": "RazorPagesInLab",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
+      "ContentRoot": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
       "BasePath": "_content/RazorPagesInLab",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -777,10 +815,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.css.map"
     },
     {
-      "Identity": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "Identity": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
       "SourceId": "RazorPagesInLab",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
+      "ContentRoot": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
       "BasePath": "_content/RazorPagesInLab",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -796,10 +834,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.min.css"
     },
     {
-      "Identity": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "Identity": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
       "SourceId": "RazorPagesInLab",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
+      "ContentRoot": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
       "BasePath": "_content/RazorPagesInLab",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -815,10 +853,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map"
     },
     {
-      "Identity": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "Identity": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
       "SourceId": "RazorPagesInLab",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
+      "ContentRoot": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
       "BasePath": "_content/RazorPagesInLab",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -834,10 +872,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css"
     },
     {
-      "Identity": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "Identity": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "SourceId": "RazorPagesInLab",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
+      "ContentRoot": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
       "BasePath": "_content/RazorPagesInLab",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -853,10 +891,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
     },
     {
-      "Identity": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "Identity": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "SourceId": "RazorPagesInLab",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
+      "ContentRoot": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
       "BasePath": "_content/RazorPagesInLab",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -872,10 +910,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
     },
     {
-      "Identity": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "Identity": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "SourceId": "RazorPagesInLab",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
+      "ContentRoot": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
       "BasePath": "_content/RazorPagesInLab",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -891,10 +929,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "Identity": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
       "SourceId": "RazorPagesInLab",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
+      "ContentRoot": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
       "BasePath": "_content/RazorPagesInLab",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -910,10 +948,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js"
     },
     {
-      "Identity": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "Identity": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "SourceId": "RazorPagesInLab",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
+      "ContentRoot": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
       "BasePath": "_content/RazorPagesInLab",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -929,10 +967,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
     },
     {
-      "Identity": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "Identity": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "SourceId": "RazorPagesInLab",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
+      "ContentRoot": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
       "BasePath": "_content/RazorPagesInLab",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -948,10 +986,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
     },
     {
-      "Identity": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "Identity": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "SourceId": "RazorPagesInLab",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
+      "ContentRoot": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
       "BasePath": "_content/RazorPagesInLab",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -967,10 +1005,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "Identity": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
       "SourceId": "RazorPagesInLab",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
+      "ContentRoot": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
       "BasePath": "_content/RazorPagesInLab",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -986,10 +1024,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js"
     },
     {
-      "Identity": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "Identity": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "SourceId": "RazorPagesInLab",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
+      "ContentRoot": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
       "BasePath": "_content/RazorPagesInLab",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1005,10 +1043,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map"
     },
     {
-      "Identity": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "Identity": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "SourceId": "RazorPagesInLab",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
+      "ContentRoot": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
       "BasePath": "_content/RazorPagesInLab",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1024,10 +1062,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js"
     },
     {
-      "Identity": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "Identity": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "SourceId": "RazorPagesInLab",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
+      "ContentRoot": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
       "BasePath": "_content/RazorPagesInLab",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1043,10 +1081,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "Identity": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
       "SourceId": "RazorPagesInLab",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
+      "ContentRoot": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
       "BasePath": "_content/RazorPagesInLab",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1062,10 +1100,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.js"
     },
     {
-      "Identity": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "Identity": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
       "SourceId": "RazorPagesInLab",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
+      "ContentRoot": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
       "BasePath": "_content/RazorPagesInLab",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1081,10 +1119,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.js.map"
     },
     {
-      "Identity": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "Identity": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
       "SourceId": "RazorPagesInLab",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
+      "ContentRoot": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
       "BasePath": "_content/RazorPagesInLab",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1100,10 +1138,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.min.js"
     },
     {
-      "Identity": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "Identity": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
       "SourceId": "RazorPagesInLab",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
+      "ContentRoot": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
       "BasePath": "_content/RazorPagesInLab",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1119,10 +1157,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map"
     },
     {
-      "Identity": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/lib/bootstrap/LICENSE",
+      "Identity": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/lib/bootstrap/LICENSE",
       "SourceId": "RazorPagesInLab",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
+      "ContentRoot": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
       "BasePath": "_content/RazorPagesInLab",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1138,10 +1176,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/LICENSE"
     },
     {
-      "Identity": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "Identity": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "SourceId": "RazorPagesInLab",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
+      "ContentRoot": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
       "BasePath": "_content/RazorPagesInLab",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1157,10 +1195,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "Identity": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "SourceId": "RazorPagesInLab",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
+      "ContentRoot": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
       "BasePath": "_content/RazorPagesInLab",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1176,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "Identity": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
       "SourceId": "RazorPagesInLab",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
+      "ContentRoot": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
       "BasePath": "_content/RazorPagesInLab",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1195,10 +1233,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt"
     },
     {
-      "Identity": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "Identity": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/lib/jquery-validation/dist/additional-methods.js",
       "SourceId": "RazorPagesInLab",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
+      "ContentRoot": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
       "BasePath": "_content/RazorPagesInLab",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1214,10 +1252,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/additional-methods.js"
     },
     {
-      "Identity": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "Identity": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
       "SourceId": "RazorPagesInLab",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
+      "ContentRoot": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
       "BasePath": "_content/RazorPagesInLab",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1233,10 +1271,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/additional-methods.min.js"
     },
     {
-      "Identity": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "Identity": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
       "SourceId": "RazorPagesInLab",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
+      "ContentRoot": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
       "BasePath": "_content/RazorPagesInLab",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1252,10 +1290,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/jquery.validate.js"
     },
     {
-      "Identity": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "Identity": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
       "SourceId": "RazorPagesInLab",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
+      "ContentRoot": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
       "BasePath": "_content/RazorPagesInLab",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1271,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/jquery.validate.min.js"
     },
     {
-      "Identity": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/lib/jquery-validation/LICENSE.md",
+      "Identity": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/lib/jquery-validation/LICENSE.md",
       "SourceId": "RazorPagesInLab",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
+      "ContentRoot": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
       "BasePath": "_content/RazorPagesInLab",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1290,10 +1328,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/LICENSE.md"
     },
     {
-      "Identity": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/lib/jquery/dist/jquery.js",
+      "Identity": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/lib/jquery/dist/jquery.js",
       "SourceId": "RazorPagesInLab",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
+      "ContentRoot": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
       "BasePath": "_content/RazorPagesInLab",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1309,10 +1347,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.js"
     },
     {
-      "Identity": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/lib/jquery/dist/jquery.min.js",
+      "Identity": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/lib/jquery/dist/jquery.min.js",
       "SourceId": "RazorPagesInLab",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
+      "ContentRoot": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
       "BasePath": "_content/RazorPagesInLab",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1328,10 +1366,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.min.js"
     },
     {
-      "Identity": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/lib/jquery/dist/jquery.min.map",
+      "Identity": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/lib/jquery/dist/jquery.min.map",
       "SourceId": "RazorPagesInLab",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
+      "ContentRoot": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
       "BasePath": "_content/RazorPagesInLab",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1347,10 +1385,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.min.map"
     },
     {
-      "Identity": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/lib/jquery/LICENSE.txt",
+      "Identity": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/lib/jquery/LICENSE.txt",
       "SourceId": "RazorPagesInLab",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/berkeroglu/Desktop/Ceng382/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
+      "ContentRoot": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/",
       "BasePath": "_content/RazorPagesInLab",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
