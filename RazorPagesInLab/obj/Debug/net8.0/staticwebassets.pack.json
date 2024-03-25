@@ -33,20 +33,8 @@
       "PackagePath": "staticwebassets/images/user32x32.png"
     },
     {
-      "Id": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/js/Button.js",
-      "PackagePath": "staticwebassets/js/Button.js"
-    },
-    {
-      "Id": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/js/CreateAccount.js",
-      "PackagePath": "staticwebassets/js/CreateAccount.js"
-    },
-    {
-      "Id": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/js/ForgotPassword.js",
-      "PackagePath": "staticwebassets/js/ForgotPassword.js"
-    },
-    {
-      "Id": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/js/Index.js",
-      "PackagePath": "staticwebassets/js/Index.js"
+      "Id": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/js/Myscript.js",
+      "PackagePath": "staticwebassets/js/Myscript.js"
     },
     {
       "Id": "/Users/berkeroglu/Documents/Ceng382_23_24_s_202011411/Ceng382_23_24_s_202011411/RazorPagesInLab/wwwroot/js/color-model.js",
