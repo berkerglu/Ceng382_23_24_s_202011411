@@ -84,3 +84,12 @@ body {
   padding: 0.4em;
   text-align: center;
 }
+
+#DisplayForForgotPage, #DisplayForForgotPage2, #Display, #Display2, #DisplayForCreateAccountPage, #DisplayForCreateAccountPage2, #DisplayForCreateAccountPage3, #DisplayForCreateAccountPage4, #resultParagraph{
+  text-align: center;
+}
+
+#DisplayParagraph{
+  border-radius: 10px;
+  border: 1px solid #0d00ff;
+}
